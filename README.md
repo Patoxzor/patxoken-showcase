@@ -26,9 +26,9 @@ for automatic license renewal.
 
 ## 📸 Screenshots
 
-| Account list | TOTP / 2FA | Settings |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+| Account list & live TOTP | Settings |
+|---|---|
+| ![Account list with the current TOTP code and countdown](assets/account-list.png) | ![Settings: user/licensing, group, language and timers](assets/settings.png) |
 
 ---
 
